@@ -945,7 +945,7 @@ def help():
     stdout.write(
         "             " + Fore.LIGHTCYAN_EX + "║ \x1b[38;2;255;20;147m• " + Fore.LIGHTWHITE_EX + "THANK    " + Fore.LIGHTCYAN_EX + "|" + Fore.LIGHTWHITE_EX + " Thanks for using AuraDDoS.                " + Fore.LIGHTCYAN_EX + "║\n")
     stdout.write(
-        "             " + Fore.LIGHTCYAN_EX + "║ \x1b[38;2;255;20;147m• " + Fore.LIGHTWHITE_EX + "YOU♥     " + Fore.LIGHTCYAN_EX + "|" + Fore.LIGHTWHITE_EX + " Plz star project :)                    " + Fore.LIGHTCYAN_EX + "║\n")
+        "             " + Fore.LIGHTCYAN_EX + "║ \x1b[38;2;255;20;147m• " + Fore.LIGHTWHITE_EX + "YOU♥     " + Fore.LIGHTCYAN_EX + "|" + Fore.LIGHTWHITE_EX + " Modded by trhacknon :)                    " + Fore.LIGHTCYAN_EX + "║\n")
     stdout.write("             " + Fore.LIGHTCYAN_EX + "╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 
